@@ -7,3 +7,6 @@ Average error for all the feature vars
 
 Dependent variable X
 Independent variable Y
+
+Linear relationship between X and Y
+Y=mX+c
