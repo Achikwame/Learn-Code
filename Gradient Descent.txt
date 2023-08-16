@@ -5,3 +5,5 @@ Error for a single feature var
 Cos Function
 Average error for all the feature vars
 
+Dependent variable X
+Independent variable Y
