@@ -10,3 +10,5 @@ Independent variable Y
 
 Linear relationship between X and Y
 Y=mX+c
+gradient descent algorithm:It object is to find the minimum cos function
+
