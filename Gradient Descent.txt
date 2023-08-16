@@ -1,0 +1,7 @@
+Hello welcome to Linear Regression using Gradient descent
+What is cos function and loss function?
+Loss Function:
+Error for a single feature var 
+Cos Function
+Average error for all the feature vars
+
